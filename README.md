@@ -1,6 +1,16 @@
 # Comprehensive-Banking-Risk-Analysis-Using-EDA-and-BI-Tools
 An end-to-end data analytics project focused on risk analysis in banking, combining Python, SQL, and PowerBI. This project demonstrates the complete data pipeline: from data cleaning and exploratory data analysis (EDA) to dashboard design and development.
 
+# My Project
+
+Here are some screenshots:
+
+### 📸 Dashboard Screenshot
+[![Dashboard1](assets/images/home.png)](assets/images/home.png)
+[![Dashboard2](assets/images/loan_analysis.png)](assets/images/loan_analysis.png)
+[![Dashboard3](assets/images/deposit_analysis.png)](assets/images/deposit_analysis.png)
+[![Dashboard4](assets/images/summary.png)](assets/images/summary.png)
+
 ---
 
 ## 📌 Project Overview
